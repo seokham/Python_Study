@@ -1,14 +1,24 @@
-print(type('hoppang')) #<class 'str'>
 
+#* <class 'str'>
+print(type('hoppang')) 
+
+
+#*hoppang
 name = 'hoppang'
-print(name) #hoppang
+print(name) 
 
-print(type(['hoppang', 'messi', 'son'])) #<class 'list'>
 
+#*<class 'list'>
+print(type(['hoppang', 'messi', 'son']))
+
+
+#*son
 names = ['hoppang', 'messi', 'son']
 print(names) 
-print(names[2]) #son
+print(names[2]) 
 
+
+#*['programmer', 'busan', 25, False] 리스트의 두번째 element가 busan으로 바뀜
 hoppang = ['programmer', 'seoul', 25, False]
 hoppang[1] = 'busan'
-print(hoppang) #['programmer', 'busan', 25, False] 리스트의 두번째 element가 busan 으로 바뀜
+print(hoppang)
