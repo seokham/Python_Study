@@ -50,8 +50,6 @@ for item in range(5, 11):
 #* input_id의 입력값이 members의 요소들 중에 일치하는 값이 있다면 "Hello!, (요소값)" 을 출력한다.
 #* input_id의 입력값이 members의 요소들 중에 일치하는 값이 없다면 "Who are you?" 를 출력한다.
 #* import sys, sys.exit() 이 두줄이 없다면 "Hello!, (요소값)" 와 "Who are you?" 가 모두 출력된다.
-#* 
-
 input_id = input("Please enter your ID.\n")
 members = ['hoppang', 'h1234', 'son']
 for member in members:
