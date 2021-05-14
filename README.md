@@ -7,8 +7,8 @@
 <br>
 <p>2. Python lecture</p>
 <p>1) Debugging</p>
-<p>2) Regular_Expressions</p>
-<p>3) To_compare_source_codes</p>
-<p>4) Create_an_exe_extension_file</p>
+<p>2) Regular Expressions</p>
+<p>3) To compare source codes</p>
+<p>4) Create an exe extension file</p>
   </body>
 </html>
