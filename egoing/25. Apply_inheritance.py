@@ -4,7 +4,7 @@
 #* add(), multiply() 라는 메소드를 사용할 수 있다. 
 #* 즉, CalMultiply 라는 클래스는 Cal 이 가지고 있는 모든 메소드를 상속받은 것이라고 할 수 있다.
 #* CalMultiply 나 CalDivide 라는 클래스 안의 self.v1, self.2 들은 class Cal(object) 안에만 정의
-#* 정의되어 있다. 상속은 메소드만을 상속하는 것이 아닌 그 부모 객체가 가지고 있는 변수도 상속 받는다.
+#* 되어 있다. 상속은 메소드만을 상속하는 것이 아닌 그 부모 객체가 가지고 있는 변수도 상속 받는다.
 class Cal(object):
     def __init__(self, v1, v2):
         if isinstance(v1, int):
