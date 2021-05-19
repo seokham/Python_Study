@@ -7,6 +7,7 @@
 
 #* Class는 class 라는 키워드로 시작 된다.
 #* class의 name은 Cal
+#* c1, c2는 Object
 
 class Cal(object):
 
@@ -15,4 +16,4 @@ print(c1.add())
 print(c1.subtract())
 
 c2 = Cal(30,20)
-print(c2.add()) 
+print(c2.add())
